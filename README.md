@@ -14,7 +14,7 @@
 </div>
 
 <div class='dados'>
-![Snake animation](https://github.com/Victor4n4cleto/Victor4n4cleto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Victor4n4cleto/Victor4n4cleto/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <h3> Linguagens de Programação <h3>
