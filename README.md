@@ -2,7 +2,7 @@
 
 <div margin='5em 5em' class'status'>
 <a href='https://github.com/Victor4n4cleto'>
-	<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green'>
+	<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username={Victor4n4cleto}&theme=blue-green'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username={Victor4n4cleto}&theme=blue-green'>
 </div>
 
