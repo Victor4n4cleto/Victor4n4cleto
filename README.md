@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
 <a href='https://github.com/Victor4n4cleto'>
-	<img height="180em" src='https://github-readme-stats.vercel.app/api?username=Victor4n4cleto&theme=blue-green'><span> </span>
-	<img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Victor4n4cleto&theme=blue-green'>
+	<img height="200em" src='https://github-readme-stats.vercel.app/api?username=Victor4n4cleto&theme=blue-green'><span> </span>
+	<img height="200em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Victor4n4cleto&theme=blue-green'>
 </div>
 
 <h3> Sistemas Operacionais <h3>
