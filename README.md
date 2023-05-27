@@ -13,10 +13,6 @@
 	<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'>
 </div>
 
-
-![snake gif](https://github.com/Victor4n4cleto/Victor4n4cleto/blob/output/github-contribution-grid-snake.svg)
-
-
 <h3> Linguagens de Programação <h3>
 <div id='language'>
 	<img src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white'>
